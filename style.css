@@ -35,8 +35,8 @@ span {
 span:before {
   content: "";
   position: absolute;
-  width: 70px;
-  height: 70px;
+  width: 88px;
+  height: 88px;
   background: url(heart.png);
   background-size: cover;
   animation: moveShape 1s linear infinite;
